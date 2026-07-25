@@ -179,12 +179,32 @@ except Exception:
 # ⚙️ [ÁREA EDITÁVEL] CONFIGURAÇÃO DE ACESSO DO ASSINANTE
 # ==============================================================================
 
+
+
+
+
+
+
+
+
+
 SENHA_CORRETA = "VIP1234"  # 🔑 Senha de acesso do assinante
 DATA_EXPIRACAO = date(2026, 8, 31)  # 📅 Data limite do acesso: (Ano, Mês, Dia)
 NUMERO_SUPORTE = "15996773426"  # 📞 Suporte
 SUPORTE_FORMATADO = "(15) 99677-3426"
 
 # ==============================================================================
+
+
+
+
+
+
+
+
+
+
+
 
 
 # --- SISTEMA DE AUTENTICAÇÃO NA BARRA LATERAL ---
